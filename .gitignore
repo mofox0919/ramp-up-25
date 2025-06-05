@@ -1,0 +1,41 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# macOS metadata files
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+# VS Code settings
+.vscode/
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Python cache (if using Python)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Application specific
+.idea/
+*.sublime-workspace
+*.sublime-project
