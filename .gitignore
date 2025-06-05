@@ -18,8 +18,6 @@ Icon
 *.AppleDouble
 *.LSOverride
 
-# VS Code settings
-.vscode/
 
 # Node modules (if using Node.js)
 node_modules/
